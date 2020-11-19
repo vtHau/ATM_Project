@@ -1,0 +1,35 @@
+﻿  Admin.cpp
+d:\c++ c#\atm_final\consoleapplication1\admin.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\admin.cpp(111): warning C4101: 'choose': unreferenced local variable
+  ConsoleApplication1.cpp
+  Login.cpp
+  User.cpp
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(31): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(71): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(73): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(79): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(87): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(93): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(102): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(107): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(112): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(120): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(165): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(211): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(216): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(231): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(260): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(269): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(277): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(285): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(296): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(302): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(345): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(381): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(384): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(393): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(396): warning C4018: '<': signed/unsigned mismatch
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(407): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+d:\c++ c#\atm_final\consoleapplication1\user.cpp(305): warning C4715: 'ListInfoUser::getInfoUser': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\C++ C#\ATM_Final\Debug\ConsoleApplication1.exe
